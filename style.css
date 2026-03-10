@@ -1,0 +1,323 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    width: 380px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 { 
+    text-align: center;
+    margin-top: 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: none;
+    background: #DC8585;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+input {
+   width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background: #2980b9;
+}
+
+button:disabled{
+    background: #95a5a6;
+    cursor: not-allowed;
+}
+#hasil {
+    margin-top: 15px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.ringkasan {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+    font-weight: bold;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    width: 380px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 { 
+    text-align: center;
+    margin-top: 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: none;
+    background: #3498db;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+input {
+   width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background: #2980b9;
+}
+
+button:disabled{
+    background: #95a5a6;
+    cursor: not-allowed;
+}
+#hasil {
+    margin-top: 15px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.ringkasan {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+    font-weight: bold;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    width: 380px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 { 
+    text-align: center;
+    margin-top: 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: none;
+    background: #DC8585;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+input {
+   width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background: #2980b9;
+}
+
+button:disabled{
+    background: #95a5a6;
+    cursor: not-allowed;
+}
+#hasil {
+    margin-top: 15px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.ringkasan {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+    font-weight: bold;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    width: 380px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 { 
+    text-align: center;
+    margin-top: 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: none;
+    background: #3498db;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+input {
+   width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background: #2980b9;
+}
+
+button:disabled{
+    background: #95a5a6;
+    cursor: not-allowed;
+}
+#hasil {
+    margin-top: 15px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.ringkasan {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+    font-weight: bold;
+}
+
+body{
+font-family: Arial;
+text-align:center;
+padding:20px;
+}
+
+input{
+width:260px;
+padding:10px;
+margin:10px;
+border-radius:6px;
+border:1px solid #ccc;
+}
+
+button{
+display:block;
+width:280px;
+margin:8px auto;
+padding:10px;
+border:none;
+border-radius:6px;
+background:#333;
+color:white;
+font-size:16px;
+cursor:pointer;
+}
+
+button:hover{
+background:#000;
+}
+
+.output{
+margin-top:30px;
+text-align:left;
+display:inline-block;
+}
+
+h3{
+text-align:center;
+}
+
+body{
+font-family:Arial;
+margin:0;
+text-align:center;
+}
+
+.menu{
+background:#333;
+padding:15px;
+}
+
+.menu a{
+color:white;
+text-decoration:none;
+margin:0 20px;
+font-size:18px;
+}
+
+.menu a:hover{
+color:yellow;
+}

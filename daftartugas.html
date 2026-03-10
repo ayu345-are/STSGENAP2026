@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Daftar Tugas</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="card">
+<h2>Daftar Tugas</h2>
+
+<input type="text" id="inputTugas" placeholder="Ketik nama tugas di sini">
+
+<br><br>
+
+<button onclick="tambahTugas()">Tambah Tugas</button>
+<button onclick="hapusTugasTerakhir()">Hapus Tugas Terakhir</button>
+<button onclick="bersihkanDaftar()">Bersihkan Daftar</button>
+
+<ul id="listTugas"></ul>
+
+<p id="total">Total Tugas: 0</p>
+  
+    <div id="hasil"></div>
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>

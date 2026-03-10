@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Stok Gudang Sederhana</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="card">
+<h2>Stok Gudang Sederhana</h2>
+
+<input type="text" id="namaBarang" placeholder="Masukkan Nama Barang">
+<br>
+
+<input type="number" id="stokBarang" placeholder="Jumlah Stok">
+<br>
+
+<button onclick="tambahBarang()">Tambah ke Gudang</button>
+<br>
+
+<button onclick="hapusTerakhir()">Hapus Data Terakhir</button>
+<br>
+
+<button onclick="kosongkanGudang()">Kosongkan Gudang</button>
+
+<div id="listBarang"></div>
+
+<h3 id="totalBarang">Total Seluruh Barang: 0</h3>
+
+<script src="main.js"></script>
+
+</body>
+</html>

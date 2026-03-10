@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Buku Tabungan</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="card">
+<h2>=== BUKU TABUNGAN ===</h2>
+
+<input type="number" id="setoran" placeholder="Masukkan nominal setoran">
+
+<button onclick="tambahSetoran()">Tambah Setoran</button>
+<button onclick="hapusTerakhir()">Hapus Setoran Terakhir</button>
+<button onclick="resetTabungan()">Reset Tabungan</button>
+<button onclick="cetakSaldo()">Cetak Saldo</button>
+
+<h3>Riwayat Setoran</h3>
+<div id="riwayat"></div>
+
+<div id="hasil"></div>
+
+<script src="main.js"></script>
+
+</body>
+</html>
